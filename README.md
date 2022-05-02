@@ -4,6 +4,7 @@ PROBLEM DEFINITION.
 MINING DUPLICATE QUESTIONS IN STACK OVERFLOW
 
 What are duplicate questions?
+
 Stack Overflow recommends that users search previous posts before asking a new question. 
 This is to avoid asking a question that has already been asked and that may already have been answered. 
 Stack Overflow also suggests links to questions whose title matches the new question. Despite these efforts, 
